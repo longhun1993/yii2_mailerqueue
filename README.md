@@ -1,2 +1,2 @@
-# yii2_mailerqueue
-anysc mailer
+# imooc_yii2_mailerqueue
+async mailer
